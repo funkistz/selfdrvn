@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined');
+@import url('https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined');
+@import url('https://use.fontawesome.com/releases/v5.12.0/css/all.css');
+
+.fBxgqm {
+  height: 20px;
 }
